@@ -1,0 +1,19 @@
+{
+  "name": "important-words",
+  "version": "1.0.0",
+  "description": "Given a list of files, parse them to find the words that reoccur most often",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/champgm/important-words.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/champgm/important-words/issues"
+  },
+  "homepage": "https://github.com/champgm/important-words#readme"
+}
